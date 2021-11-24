@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/tmdb-app/static/js/main.0e7a0c3e.chunk.js",
-    "main.js.map": "/tmdb-app/static/js/main.0e7a0c3e.chunk.js.map",
+    "main.js": "/tmdb-app/static/js/main.51454452.chunk.js",
+    "main.js.map": "/tmdb-app/static/js/main.51454452.chunk.js.map",
     "runtime-main.js": "/tmdb-app/static/js/runtime-main.d7a9e5cb.js",
     "runtime-main.js.map": "/tmdb-app/static/js/runtime-main.d7a9e5cb.js.map",
     "static/js/2.5228acfa.chunk.js": "/tmdb-app/static/js/2.5228acfa.chunk.js",
@@ -16,6 +16,6 @@
   "entrypoints": [
     "static/js/runtime-main.d7a9e5cb.js",
     "static/js/2.5228acfa.chunk.js",
-    "static/js/main.0e7a0c3e.chunk.js"
+    "static/js/main.51454452.chunk.js"
   ]
 }
