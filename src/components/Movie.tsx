@@ -31,7 +31,7 @@ return(
 time={movie.runtime} 
 budget={movie.budget} 
  revenue={movie.revenue}></MovieInfoBar>
- <Grid header='Actor'>
+ <Grid header='Atores'>
 {movie.actors.map(actor=>
     <Actor key={actor.credit_id} name={actor.name} character={actor.character}
     imageurl={

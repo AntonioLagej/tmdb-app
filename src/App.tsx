@@ -9,7 +9,7 @@ import  NotFound from './components/NotFound';
 const App :React.FC=()=>{
   return (
     
-    <BrowserRouter>
+    <BrowserRouter  basename="/tmdb-app">
         <GlobalStyle/>
   <Header/>
   <Routes>
